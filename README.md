@@ -1,4 +1,4 @@
-# -
+# 垃圾分类系统
 利用ResNext架构对垃圾进行分类
 split_data.py为对数据集进行划分
 train.py为对模型进行训练
